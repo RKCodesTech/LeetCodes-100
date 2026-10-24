@@ -8,12 +8,14 @@
 ## Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RKCodesTech/LeetCodes-100/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/RKCodesTech/LeetCodes-100/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -32,5 +34,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0503-next-greater-element-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/RKCodesTech/LeetCodes-100/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
