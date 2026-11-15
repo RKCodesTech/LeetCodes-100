@@ -13,6 +13,7 @@
 | [0682-baseball-game](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0853-car-fleet) |
+| [0901-online-stock-span](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RKCodesTech/LeetCodes-100/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/RKCodesTech/LeetCodes-100/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/RKCodesTech/LeetCodes-100/tree/master/2487-remove-nodes-from-linked-list) |
@@ -46,6 +47,7 @@
 | [0503-next-greater-element-ii](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0853-car-fleet) |
+| [0901-online-stock-span](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0901-online-stock-span) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/RKCodesTech/LeetCodes-100/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/RKCodesTech/LeetCodes-100/tree/master/2487-remove-nodes-from-linked-list) |
 ## Range Minimum/Maximum Query
@@ -56,4 +58,12 @@
 |  |
 | ------- |
 | [0853-car-fleet](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0853-car-fleet) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
