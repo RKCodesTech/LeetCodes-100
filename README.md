@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0739-daily-temperatures) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0739-daily-temperatures) |
@@ -44,6 +46,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0853-car-fleet) |
@@ -66,4 +69,12 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0901-online-stock-span) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0085-maximal-rectangle) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
