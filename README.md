@@ -10,6 +10,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0085-maximal-rectangle) |
+| [0155-min-stack](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0739-daily-temperatures) |
@@ -64,6 +65,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/RKCodesTech/LeetCodes-100/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
